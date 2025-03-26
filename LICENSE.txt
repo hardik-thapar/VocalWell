@@ -1,0 +1,19 @@
+# VocalWell Proprietary License
+
+## Ownership
+This project, **VocalWell**, including but not limited to its concept, intellectual property, design, and any associated materials, is the exclusive property of **Hardik Thapar**. All rights are reserved.
+
+## Viewing Rights
+- This repository is publicly available for **viewing purposes only**.
+- No part of this project, including its **code, design, structure, or underlying concepts**, may be used, copied, modified, or distributed without explicit written permission from the owner.
+
+## Prohibited Uses
+- 🚫 You **may not** use this project or its idea for any personal, academic, or commercial purposes.
+- 🚫 You **may not** redistribute, reproduce, or modify any part of this project.
+- 🚫 You **may not** create derivative works or projects based on this repository.
+
+## Legal Disclaimer
+Any unauthorized use, reproduction, or distribution of this project or its associated intellectual property will be subject to legal action. By accessing this repository, you agree to comply with these terms.
+
+For inquiries regarding usage rights, please contact **Hardik Thapar & Kavin Thakur**.
+
