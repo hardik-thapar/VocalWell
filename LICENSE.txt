@@ -1,19 +1,77 @@
-# VocalWell Proprietary License
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VocalWell License</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f8f9fa;
+            color: #333;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #222;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #444;
+            margin-top: 20px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        p {
+            font-size: 16px;
+            text-align: justify;
+        }
+        .notice {
+            font-weight: bold;
+            color: red;
+        }
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            margin-top: 20px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
 
-## Ownership
-This project, **VocalWell**, including but not limited to its concept, intellectual property, design, and any associated materials, is the exclusive property of **Hardik Thapar**. All rights are reserved.
+<div class="container">
+    <h1>📜 VocalWell Proprietary License</h1>
 
-## Viewing Rights
-- This repository is publicly available for **viewing purposes only**.
-- No part of this project, including its **code, design, structure, or underlying concepts**, may be used, copied, modified, or distributed without explicit written permission from the owner.
+    <h2>🔹 Ownership</h2>
+    <p>This project, <strong>VocalWell</strong>, including its concept, intellectual property, design, and associated materials, is the exclusive property of <strong>Hardik Thapar</strong>. All rights are reserved.</p>
 
-## Prohibited Uses
-- 🚫 You **may not** use this project or its idea for any personal, academic, or commercial purposes.
-- 🚫 You **may not** redistribute, reproduce, or modify any part of this project.
-- 🚫 You **may not** create derivative works or projects based on this repository.
+    <h2>🔹 Viewing Rights</h2>
+    <p>✔️ This repository is publicly available for <strong>viewing purposes only</strong>.</p>
+    <p>✔️ No part of this project, including its <strong>code, design, structure, or underlying concepts</strong>, may be used, copied, modified, or distributed without explicit written permission from the owner.</p>
 
-## Legal Disclaimer
-Any unauthorized use, reproduction, or distribution of this project or its associated intellectual property will be subject to legal action. By accessing this repository, you agree to comply with these terms.
+    <h2 class="notice">🚫 Prohibited Uses</h2>
+    <p>❌ You <strong>may not</strong> use this project or its idea for any personal, academic, or commercial purposes.</p>
+    <p>❌ You <strong>may not</strong> redistribute, reproduce, or modify any part of this project.</p>
+    <p>❌ You <strong>may not</strong> create derivative works or projects based on this repository.</p>
 
-For inquiries regarding usage rights, please contact **Hardik Thapar & Kavin Thakur**.
+    <h2>⚖️ Legal Disclaimer</h2>
+    <p>Any unauthorized use, reproduction, or distribution of this project or its associated intellectual property will be subject to legal action. By accessing this repository, you agree to comply with these terms.</p>
 
+    <div class="footer">
+        📩 For inquiries regarding usage rights, please contact <strong>Hardik Thapar</strong>.
+    </div>
+</div>
+
+</body>
+</html>
