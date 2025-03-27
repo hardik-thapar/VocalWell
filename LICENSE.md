@@ -8,7 +8,7 @@
 ---
 
 ## 🔹 Ownership
-This project, **VocalWell**, including its **concept, intellectual property, design, and associated materials**, is the exclusive property of **Hardik Thapar**. All rights are reserved.
+This project, **VocalWell**, including its **concept, intellectual property, design, and associated materials**, is the exclusive property of **The Owners**. All rights are reserved.
 
 ---
 
@@ -30,4 +30,4 @@ Any **unauthorized use, reproduction, or distribution** of this project or its a
 
 ---
 
-<p align="center">📩 For inquiries regarding usage rights, please contact <strong>Hardik Thapar & Kavin Thakur</strong>.</p>
+<p align="center">📩 For inquiries regarding usage rights, please contact <strong>Meharjot Kaur</strong>.</p>
